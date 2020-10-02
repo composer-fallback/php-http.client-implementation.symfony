@@ -1,0 +1,16 @@
+{
+    "name": "composer-fallback/php-http.client-implementation.symfony",
+    "description": "Satisfy \"php-http/client-implementation\" with packages provided by user, or fallback to \"symfony\".",
+    "type": "metapackage",
+    "license": "MIT",
+    "keywords": [
+        "composer",
+        "fallback",
+        "default",
+        "php-http",
+        "client-implementation"
+    ],
+    "require": {
+        "symfony/http-client": "*"
+    }
+}
