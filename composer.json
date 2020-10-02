@@ -10,7 +10,5 @@
         "php-http",
         "client-implementation"
     ],
-    "require": {
-        "symfony/http-client": "*"
-    }
+    "require": []
 }
